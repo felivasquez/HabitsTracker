@@ -1,4 +1,3 @@
-import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class LoginWidget extends StatefulWidget {
@@ -26,27 +25,34 @@ class _LoginWidgetState extends State<LoginWidget> {
               style: TextStyle(
                 fontSize: 42,
                 fontWeight: FontWeight.bold,
+                fontFamily: "Riveruta",
                 color: const Color.fromARGB(255, 1, 67, 13),
               ),
             ),
           ),
-          CupertinoTextField(
-            decoration: BoxDecoration(
-              borderRadius: BorderRadius.circular(30),
-              border: Border.all(color: Colors.black, width: 1),
+          TextField(
+            decoration: InputDecoration(
+              border: OutlineInputBorder(
+                borderRadius: BorderRadius.circular(30),
+                borderSide: const BorderSide(color: Colors.black, width: 1),
+              ),
+              hintText: 'Enter your email',
+              contentPadding:
+                  const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
             ),
-            padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-            placeholder: 'Enter your email',
           ),
           Padding(
             padding: const EdgeInsets.only(top: 8),
-            child: CupertinoTextField(
-              decoration: BoxDecoration(
-                borderRadius: BorderRadius.circular(30),
-                border: Border.all(color: Colors.black, width: 1),
+            child: TextField(
+              decoration: InputDecoration(
+                border: OutlineInputBorder(
+                  borderRadius: BorderRadius.circular(30),
+                  borderSide: const BorderSide(color: Colors.black, width: 1),
+                ),
+                hintText: 'Enter your password',
+                contentPadding:
+                    const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
               ),
-              padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-              placeholder: 'Enter your password',
             ),
           ),
           Container(

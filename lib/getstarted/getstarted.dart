@@ -60,7 +60,7 @@ class _ColumnExample extends State<ColumnExample> {
                   duration: const Duration(seconds: 1),
                   child: ElevatedButton(
                     onPressed: () {
-                      Navigator.pushReplacement(
+                      Navigator.push(
                         context,
                         MaterialPageRoute(builder: (context) => const LoginWidget()),
                       );
