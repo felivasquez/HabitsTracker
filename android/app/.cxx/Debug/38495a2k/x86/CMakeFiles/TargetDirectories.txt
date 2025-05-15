@@ -1,0 +1,2 @@
+D:/escritorio/app/HabitsTracker/android/app/.cxx/Debug/38495a2k/x86/CMakeFiles/edit_cache.dir
+D:/escritorio/app/HabitsTracker/android/app/.cxx/Debug/38495a2k/x86/CMakeFiles/rebuild_cache.dir
