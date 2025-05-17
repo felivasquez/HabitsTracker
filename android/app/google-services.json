@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687846099564",
+    "project_id": "habitstracker-b2415",
+    "storage_bucket": "habitstracker-b2415.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687846099564:android:2781e820f7490639746649",
+        "android_client_info": {
+          "package_name": "com.example.habitstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SzOG7eaZ9AD3en38hjYcw0wRppqOfzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

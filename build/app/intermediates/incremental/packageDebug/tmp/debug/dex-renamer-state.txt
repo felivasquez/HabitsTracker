@@ -1,8 +1,8 @@
-#Thu May 15 15:49:14 ART 2025
-base.0=D\:\\escritorio\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
-base.1=D\:\\escritorio\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.2=D\:\\escritorio\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
-base.3=D\:\\escritorio\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
+#Sat May 17 18:21:23 ART 2025
+base.0=C\:\\Users\\feli\\Desktop\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeExtDexDebug\\classes.dex
+base.1=C\:\\Users\\feli\\Desktop\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.2=C\:\\Users\\feli\\Desktop\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\1\\classes.dex
+base.3=C\:\\Users\\feli\\Desktop\\app\\HabitsTracker\\build\\app\\intermediates\\dex\\debug\\mergeProjectDexDebug\\5\\classes.dex
 path.0=classes.dex
 path.1=0/classes.dex
 path.2=1/classes.dex
